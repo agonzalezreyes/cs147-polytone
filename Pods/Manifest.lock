@@ -1,0 +1,22 @@
+PODS:
+  - EZAudio (1.1.5):
+    - EZAudio/Full (= 1.1.5)
+  - EZAudio/Core (1.1.5)
+  - EZAudio/Full (1.1.5):
+    - EZAudio/Core
+    - TPCircularBuffer (= 1.1)
+  - SwiftCarousel (0.8.0)
+  - TPCircularBuffer (1.1)
+
+DEPENDENCIES:
+  - EZAudio (~> 1.1.4)
+  - SwiftCarousel
+
+SPEC CHECKSUMS:
+  EZAudio: 3b1cb4b6d7ebca68f0c2478576d75940aad4aa99
+  SwiftCarousel: a62f4e9b944d1bca4ccfe3f28abb6119e3e36b12
+  TPCircularBuffer: 4960a919e667280f7f38963d771f45871b64fe62
+
+PODFILE CHECKSUM: 486d847a321f440e9dbac1b73a706c65556cc563
+
+COCOAPODS: 1.1.1
